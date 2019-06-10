@@ -11,7 +11,7 @@ This is a work in progress!
 
 ### Shortcuts
 
-![Shortcuts](https://github.com/leonardoad/VSCode-Netbeans-Keybindings/blob/master/shortcuts.jpg?raw=true)
+![Shortcuts](https://github.com/leonardoad/VSCode-Netbeans-Keybindings/blob/master/shortcuts.png?raw=true)
 
 ### Prerequisites
 
